@@ -1,5 +1,6 @@
 # WifiLog
 WifiLog is a tool that monitors your internet connection and logs any drops in connectivity. It can be helpful for diagnosing and troubleshooting internet connectivity issues *(and complaining to your ISP)*.
+- Made by [heladeradragon](https://heladeradragon.com.ar), licensed under the MIT license
 ### Features
 - Run and go. This script requires basically no setup. You can even set it to launch on boot if you want.
 - Checks connectivity by pinging 1.1.1.1, which is more reliable than Windows' tray icon
@@ -27,3 +28,4 @@ If the UI breaks:
 - Inside it, put the following code: `python ./WifiLog-v2.py`
 - Right click your script --> Show more options --> Send to --> Desktop (create shortcut)
 - Win + R --> shell:startup --> [Enter] --> Drag shortcut from desktop to folder
+
