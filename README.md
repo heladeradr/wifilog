@@ -9,7 +9,8 @@ WifiLog is a tool that monitors your internet connection and logs any drops in c
 - Session Management: The log file can contain multiple sessions, decluttering your desktop.
 - Licensed under the MIT License, I encourage community contributions and improvements.
 ### Usage
-- Open a terminal on your project's directory
+- Unzip file
+- Open a terminal on unzipped folder
 - `python ./WifiLog-v2.py`
 - The program will start logging everything to the file (it will be created if it doesn't exist)
 ### Quirks (READ!!!)
